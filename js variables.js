@@ -10,3 +10,4 @@ const intrestRate = 15;
 varusername = "kevbin";
 
 score = 800;
+

@@ -12,6 +12,6 @@ const eldohiub = {
     //An array is orered indexed list of data
     const students = ["albert", "jane", "john", "mary"]
 
-
+const 
 
     

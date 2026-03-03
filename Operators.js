@@ -11,3 +11,4 @@ console.log(20 >=20);
 //what are the key word in programming language
 //  and give examples n js
 //What dose the modulus apparatus do in arithmetics 
+//explain different variable naming rules
