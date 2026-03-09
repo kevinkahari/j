@@ -1,0 +1,52 @@
+body{
+    font-family: Arial;
+    text-align: center;
+    background: #f4f4f4;
+}
+
+.lamp-section{
+    margin-top: 40px;
+}
+
+.lamp-container{
+    position: relative;
+    margin: auto;
+    width: 200px;
+    height: 300px;
+}
+
+/* Lamp stand */
+#lamp{
+    width: 80px;
+    height: 150px;
+    background: #444;
+    margin: auto;
+    border-radius: 10px;
+}
+
+/* Light effect */
+#light{
+    width: 200px;
+    height: 200px;
+    background: radial-gradient(circle, rgba(255,255,150,0.9) 0%, rgba(255,255,150,0) 70%);
+    position: absolute;
+    top: -50px;
+    left: 0;
+    display: none;
+}
+
+/* Buttons */
+button{
+    margin: 10px;
+    padding: 10px 20px;
+    font-size: 16px;
+    border: none;
+    background: #007BFF;
+    color: white;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+button:hover{
+    background: #0056b3;
+}

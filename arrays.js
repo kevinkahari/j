@@ -78,3 +78,7 @@ function isPrime(num) {
 
 const primes = number3.filter(isPrime);
 console.log("Prime numbers:", primes);
+
+
+
+  // Add function implementation here
